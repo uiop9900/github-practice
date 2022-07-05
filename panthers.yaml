@@ -1,6 +1,10 @@
 team: Panthers
 
+<<<<<<< HEAD
 manager: Shirley
+=======
+manager: Raymond
+>>>>>>> 9ab8f35 (Edit Panthers)
 
 members:
 - jiaLEE
